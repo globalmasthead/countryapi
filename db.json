@@ -1,0 +1,32 @@
+{"CountryGroup":[ {"id" : 1 ,
+               "region" : "America",
+               "countryList" :[ {
+                              "id": 1,
+                              "language": "Español",
+                              "locale": "es-ar",
+                              "country": "Argentina"
+                            },
+                             {
+                            "id": 2,
+                            "language": "Português",
+                            "locale":  "pt-br",
+                            "country": "Brazil"
+                             }]
+                },
+                    {"id" : 2 ,
+                       "region" :  "Europe",
+                       "countryList" :[ {
+                              "id": 1,
+                              "language":  "English",
+                              "locale":  "sq-al",
+                              "country": "Albania"
+                            },
+                             {
+                            "id": 2,
+                            "language": "Deutsch",
+                            "locale":  "de-at",
+                            "country": "Austria"
+                             }]
+                     }
+               ]
+}
